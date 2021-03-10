@@ -1,2 +1,2 @@
 # NetBind
-CSharp Wrapper for Unreal Engine 4 base on .Net 6
+CSharp Wrapper for Cpp base on .Net 6
